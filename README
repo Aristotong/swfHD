@@ -1,0 +1,10 @@
+swfHD | High Definition Web Player
+
+This project aims to create a simple and clean HD player for the Web.  Streaming HD video over the RTMP protocol is the first objective for the player.  swfHD will then evolve into a progressive webisode player that is embeddable in any HTML page.
+
+Target market: 
+Filmmakers & Cinematographers with web design skills (or access to a designer!)
+
+Protocols:
+HTTP (Progressive)
+RTMP (Streaming)
